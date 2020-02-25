@@ -1,2 +1,2 @@
 # ios-playground-1-map
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png | height=250)
